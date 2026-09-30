@@ -13,12 +13,11 @@ The project aims to make Egyptian heritage **easier, more engaging, and more acc
 ---
 
 ## 👥 Team Members
-
+- Menna Abdelkareem Abdelaziz Abdelkareem
 - Nour AlHoda Ali Aref Ali
 - Sama Magdy Kamal Ali
 - Shahd Mohamed Ali Ahmed
 - Basmala Fahim Hosnii Said
-- Menna Abdelkareem Abdelaziz Abdelkareem
 - Hadeer Mohammed Abdulaziz Mohammed
 
 ---
